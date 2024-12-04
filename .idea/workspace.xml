@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d693177-275a-4c3a-aeec-3c7f54f214c1" name="Changes" comment="Se agregan mas rutas">
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    <list default="true" id="0d693177-275a-4c3a-aeec-3c7f54f214c1" name="Changes" comment="se corrige el hora">
+      <change afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/landing.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/landing.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +37,11 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Downloads\JW\Cursos\Diplomado AI 2024\Curso5\Demo-Clase2\templates\static\css" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -91,13 +98,22 @@
       <option name="project" value="LOCAL" />
       <updated>1733329327142</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="se corrige el hora">
+      <option name="closed" value="true" />
+      <created>1733329492232</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733329492232</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primera version" />
     <MESSAGE value="Modificacion version" />
     <MESSAGE value="Se agregan mas rutas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se agregan mas rutas" />
+    <MESSAGE value="se corrige el hora" />
+    <option name="LAST_COMMIT_MESSAGE" value="se corrige el hora" />
   </component>
 </project>
