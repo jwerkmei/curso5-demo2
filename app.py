@@ -8,7 +8,7 @@ def index():
     return render_template('landing.html')
 
 @app.route('/hola')
-def index():
+def hola():
     return "Hola World!"
 
 @app.route('/bye')
